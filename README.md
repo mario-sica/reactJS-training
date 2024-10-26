@@ -1,4 +1,4 @@
-![React Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Icon" width="300rem" />
 
 # React.js Training Exercises
 
